@@ -30,12 +30,12 @@ Users should be able to:
 
 ### Screenshot
 
-![My Solution](my-solution.jpg)
+![My Solution](/my-solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kevinbdx35/frontendmentor-challenges-1)
-- Live Site URL: [Add live site URL here](https://kevinbdx35.github.io/frontendmentor-challenges-1/)
+- Solution URL: https://github.com/kevinbdx35/frontendmentor-challenges-1
+- Live Site URL: https://kevinbdx35.github.io/frontendmentor-challenges-1/
 
 ## My process
 
