@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/kevinbdx35/frontendmentor-challenges-1
-- Live Site URL: https://kevinbdx35.github.io/frontendmentor-challenges-1/
+- Live Site URL: https://kevinbdx35.github.io/frontendmentor-challenges-1-newbie/
 
 ## My process
 
